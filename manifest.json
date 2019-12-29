@@ -2,7 +2,7 @@
 
   "python3.8": [
     {
-      "directory": "python3.8",
+      "directory": "python3.8/empty-python-lambda",
       "displayName": "Empty Python3.8 lambda",
       "dependencyManager": "pip",
       "appTemplate": "empty-python-lambda"
